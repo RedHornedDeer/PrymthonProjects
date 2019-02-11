@@ -10,3 +10,4 @@ while 1:
    if (prime):
       print(target, "is a prime")
    target=target+1 
+#oh i'm a deer
